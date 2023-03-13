@@ -1,28 +1,22 @@
-body{
-    background-color: aliceblue;
-}
-
-
 /*Class Tags*/
 .top-container{
     background-color: #E4F9F5;
-    height: 200px;
-    width: 200px;
-    border: solid 10px;
+    /* height: 200px;
+    width: 200px;*/
 }
 
 .middle-container{
     height: 200px;
     width: 200px;
     background-color: red;
-    border: solid 20px;
-    margin-left: 220px;
+    /* border: solid 20px;
+    margin-left: 220px; */
 }
 
 .bottom-container{
     height: 200px;
     width: 200px;
     background-color: yellow;
-    border: solid 10px;
-    margin-left: 460px;
+    /* border: solid 10px;
+    margin-left: 460px; */
 }
